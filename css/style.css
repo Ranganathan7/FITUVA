@@ -1,0 +1,232 @@
+/* title section */
+@media (max-width: 1000px) {
+  #title {
+    text-align: center;
+  }
+}
+
+#title {
+  background-color: #3AB0FF;
+  color: white;
+}
+
+.title_section {
+  padding: 2% 10% 3%;
+}
+
+.logo-of-our-company {
+  width: 15%;
+  height: 15%;
+}
+
+.navbar_container {
+  margin: 0;
+}
+
+.navbar {
+  padding: 0 0 3rem;
+}
+
+.navbar-brand {
+  font-family: 'Marck Script', cursive;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  margin-left: 0.8rem;
+  color: black;
+}
+
+.logo {
+  margin-left: 20%;
+  margin-bottom: 5%;
+  height: 45%;
+  width: 35%;
+  border-radius: 20px;
+}
+
+.about {
+  font-family: 'Mali', cursive;
+  line-height: 1.5;
+  font-size: 1.3rem;
+  text-align: center;
+  font-weight: 800;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  justify-content: center;
+}
+
+.location {
+  margin-left: 5%;
+  color: white;
+  text-decoration: underline;
+}
+
+.location:hover {
+  color: black;
+}
+
+.locations {
+  font-family: 'Roboto Mono', monospace;
+  line-height: 1.3;
+  font-size: 1.1rem;
+  text-align: center;
+  list-style-position: inside;
+  margin-top: 5%;
+}
+
+.download_button {
+  margin: 15% 3% 5% 0;
+}
+
+/* features section */
+#features {
+  padding: 8% 7%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.feature {
+  color: #EB4747;
+}
+
+.feature:hover {
+  color: #47B5FF;
+}
+
+h5 {
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 1.5px;
+  word-spacing: 4px;
+  padding-top: 10%;
+}
+
+.feature-explanation {
+  color: #2C3639;
+  font-size: 0.8rem;
+  padding: 0 10% 2%;
+}
+
+/* testimonials section*/
+#testimonials {
+  color: #fff;
+  background-color: #FFB562;
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+h2 {
+  font-family: Montserrat-black;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.test-image {
+  width: 13%;
+  border-radius: 100%;
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+#press {
+  background-color: #FFB562;
+  text-align: center;
+  padding: 3% 3% 3% 3%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 0 60px 5px 60px;
+}
+
+/*pricing section*/
+#pricing {
+  text-align: center;
+  padding: 5% 2%;
+}
+
+.card {
+  margin: 5% 5%;
+}
+
+.pricing_first_line {
+  font-size: 2.5rem;
+}
+
+.card-body {
+  padding: 0;
+  display: flex;
+}
+
+.table {
+  margin: 0;
+}
+
+table.table td {
+  padding: 2% 1%;
+}
+
+.btn-outline-dark {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.order {
+  color: blue;
+}
+
+.order:hover {
+  color: white;
+}
+
+/* call-to-action */
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.cta-head {
+  color: #fff;
+  font-family: 'Splash', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.cta-download {
+  margin: 5% 0 5% 2%;
+}
+
+/* footer */
+#footer {
+  text-align: center;
+  padding-top: 3%;
+}
+
+.copyright {
+  padding: 0 0 1% 1%;
+  margin: 0;
+}
+
+.icons {
+  padding: 1% 1%;
+  margin: 0;
+  color: grey;
+}
+
+.icons:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
